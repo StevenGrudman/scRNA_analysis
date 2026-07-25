@@ -53,7 +53,7 @@ print("Maximum count:", values.max())
 
 ### CellBender 
 
-# This data already filtered out ambient RNA. If not, include a CellBender step here.
+# This data already filtered out empty droplets. CellBender requries them to filter out ambient RNA.
 
 ### QC
 
